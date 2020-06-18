@@ -34,4 +34,4 @@ if (canvas) {
   });
 }
 
-//2020.06.18 update
+//2020.06.18 update test
