@@ -33,3 +33,5 @@ if (canvas) {
     painting = false;
   });
 }
+
+//2020.06.18 update
